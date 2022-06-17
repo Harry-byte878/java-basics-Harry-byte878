@@ -112,7 +112,5 @@ public class PaperScissorsRock {
             playAgain = myScanner.next();
         }
         System.out.println("Thanks for playing!");
-
-
     }
 }
